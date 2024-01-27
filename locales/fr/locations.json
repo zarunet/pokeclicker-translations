@@ -1,0 +1,11 @@
+{
+  "regions": {
+    "kanto": "Kanto"
+  },
+  "towns": {
+    "kanto":{
+      "pallet": "Bourg Palette",
+      "viridian": "Jadielle"
+    }
+  }
+}

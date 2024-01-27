@@ -1,0 +1,11 @@
+{
+  "regions": {
+    "kanto": "Kanto"
+  },
+  "towns": {
+    "kanto":{
+      "pallet": "Pallet Town",
+      "viridian": "Viridian City"
+    }
+  }
+}
