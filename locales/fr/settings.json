@@ -1,11 +1,11 @@
 {
-  "modules.left-column": "Colonne de gauche",
+  "modules.left-column": "TEST Colonne de gauche",
   "modules.left-column-2": "Deuxième colonne de gauche",
   "modules.middle-top-sort-column": "Colonne de tri supérieure au milieu",
   "modules.middle-bottom-sort-column": "Colonne de tri inférieure au milieu",
   "modules.right-column": "Colonne de droite",
   "modules.right-column-2": "Deuxième colonne de droite",
-  "theme": "Thème",
+  "theme": "TEST Thème",
   "breedingDisplay": "Affichage de la progression de l'incubation",
   "shopButtons": "Boutons de quantité dans les Boutique",
   "resetShopAmountOnPurchase": "Réinitialiser les quantités après chaque achat",

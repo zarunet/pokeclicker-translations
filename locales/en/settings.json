@@ -1,11 +1,11 @@
 {
-  "modules.left-column": "Modules sort order left-column",
+  "modules.left-column": "TEST Modules sort order left-column",
   "modules.left-column-2": "Modules sort order left-column-2",
   "modules.middle-top-sort-column": "Modules sort order middle-top-sort-column",
   "modules.middle-bottom-sort-column": "Modules sort order middle-bottom-sort-column",
   "modules.right-column": "Modules sort order right-column",
   "modules.right-column-2": "Modules sort order right-column-2",
-  "theme": "Theme",
+  "theme": "TEST Theme",
   "breedingDisplay": "Breeding progress display",
   "shopButtons": "Shop amount buttons",
   "resetShopAmountOnPurchase": "Reset buy quantity after each purchase",
